@@ -1,2 +1,2 @@
-# uniques-bot
+# Uniques
 A discord bot for developers, by a developer
